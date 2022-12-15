@@ -62,7 +62,7 @@ export default function Home() {
                 <Card key={meal.idMeal} hoverable className="card"
                     cover={
                         <img
-                            alt="example"
+                            alt="imagem do prato"
                             src={meal.strMealThumb}
                         />
                     }
